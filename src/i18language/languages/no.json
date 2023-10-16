@@ -1,0 +1,39 @@
+{
+  "home": {
+    "heading": "Velkommen til hjemmesiden"
+  },
+  "header": {
+    "headline": "Jobbvurdering",
+    "subtitle": "Oppgave for jobben",
+    "orderNow": "Bestill nå"
+  },
+  "orderForm": {
+    "title": "Bestillingsskjema",
+    "fullNameLabel": "Fullt navn",
+    "emailLabel": "E-post",
+    "streetLabel": "Gate",
+    "cityLabel": "By",
+    "postcodeLabel": "Postnummer",
+    "countryLabel": "Land",
+    "submitButton": "Send inn",
+    "placeOrder": "Legg inn bestilling"
+  },
+  "formErrorMessage": {
+    "fullName": "Fullt navn må være alfanumerisk",
+    "email": "E-post er ikke i riktig format",
+    "street": "Gate er påkrevd",
+    "city": "By er påkrevd",
+    "postCode": "Postnummer er påkrevd",
+    "country": "Land er påkrevd"
+  },
+  "footer": {
+    "copyright": "© Oppgave for jobben",
+    "privacyPolicy": "Personvernerklæring",
+    "terms": "Vilkår og betingelser",
+    "contact": "Kontakt"
+  },
+  "language": {
+    "en": "Engelsk",
+    "no": "Norsk"
+  }
+}

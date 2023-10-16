@@ -1,0 +1,4 @@
+.home {
+  height: 100%;
+  min-height: 70vh; /* Ensures the content takes at least the viewport's height */
+}

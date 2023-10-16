@@ -1,0 +1,18 @@
+/* Responsive design for smaller screens */
+@media (max-width: 768px) {
+  .container {
+    max-width: 100%; /* Adjust for full-width container on smaller screens */
+  }
+}
+
+.container {
+  background-color: #fff;
+  box-sizing: border-box;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  padding: 20px;
+  width: 100%;
+  max-width: 400px; /* Adjust max-width as needed for responsiveness */
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  margin: 25px auto;
+}

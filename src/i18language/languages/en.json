@@ -1,0 +1,39 @@
+{
+  "home": {
+    "heading": "Welcome to the Home Page"
+  },
+  "header": {
+    "headline": "Job Assessment",
+    "subtitle": "Assignment For Job",
+    "orderNow": "Order Now"
+  },
+  "orderForm": {
+    "title": "Order Form",
+    "fullNameLabel": "Full Name",
+    "emailLabel": "Email",
+    "streetLabel": "Street",
+    "cityLabel": "City",
+    "postcodeLabel": "Postcode",
+    "countryLabel": "Country",
+    "submitButton": "Submit",
+    "placeOrder": "Place Order"
+  },
+  "formErrorMessage": {
+    "fullName": "Full Name should be alphanumeric",
+    "email": "Email is not in the correct format",
+    "street": "Street is required",
+    "city": "City is required",
+    "postCode": "Postcode is required",
+    "country": "Country is required"
+  },
+  "footer": {
+    "copyright": "© Assignment For Job",
+    "privacyPolicy": "Privacy Policy",
+    "terms": "Terms & Conditions",
+    "contact": "Contact"
+  },
+  "language": {
+    "en": "English",
+    "no": "Norwegian"
+  }
+}
