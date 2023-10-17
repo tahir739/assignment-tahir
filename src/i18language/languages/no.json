@@ -26,6 +26,14 @@
     "postCode": "Postnummer er påkrevd",
     "country": "Land er påkrevd"
   },
+  "requiredErrorMessage": {
+    "fullNamerequired": "Fullt navn er påkrevd",
+    "emailrequired": "E-post er påkrevd",
+    "streetrequired": "Gateadresse er påkrevd",
+    "cityrequired": "By er påkrevd",
+    "postcoderequired": "Postnummer er påkrevd",
+    "countryrequired": "Land er påkrevd"
+  },
   "footer": {
     "copyright": "© Oppgave for jobben",
     "privacyPolicy": "Personvernerklæring",

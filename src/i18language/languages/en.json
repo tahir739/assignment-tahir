@@ -26,6 +26,14 @@
     "postCode": "Postcode is required",
     "country": "Country is required"
   },
+  "requiredErrorMessage": {
+    "fullNamerequired": "Full Name is required",
+    "emailrequired": "Email is required",
+    "streetrequired": "Street is required",
+    "cityrequired": "City is required",
+    "postcoderequired": "Postcode is required",
+    "countryrequired": "Country is required"
+  },
   "footer": {
     "copyright": "© Assignment For Job",
     "privacyPolicy": "Privacy Policy",

@@ -61,7 +61,7 @@ function OrderForm() {
       const value = formData[rule.field].trim();
 
       if (rule.required && value === "") {
-        newErrors[rule.field] = `${rule.field} is required`;
+        newErrors[rule.field] = `requiredErrorMessage.${rule.field}required`;
       } else if (rule.pattern && !rule.pattern.test(value)) {
         newErrors[rule.field] = rule.errorMessage;
       }
