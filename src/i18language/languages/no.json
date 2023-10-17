@@ -24,7 +24,7 @@
     "street": "Gate er påkrevd",
     "city": "By er påkrevd",
     "postCode": "Postnummer er påkrevd",
-    "country": "Land er påkrevd"
+    "country": "Land navn er påkrevd"
   },
   "requiredErrorMessage": {
     "fullNamerequired": "Fullt navn er påkrevd",

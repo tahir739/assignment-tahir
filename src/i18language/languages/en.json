@@ -32,7 +32,7 @@
     "streetrequired": "Street is required",
     "cityrequired": "City is required",
     "postcoderequired": "Postcode is required",
-    "countryrequired": "Country is required"
+    "countryrequired": "Country name is required"
   },
   "footer": {
     "copyright": "© Assignment For Job",
